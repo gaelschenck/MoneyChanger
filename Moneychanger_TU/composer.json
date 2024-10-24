@@ -7,9 +7,7 @@
         "psr-4": {
             "": "src/"
         }
-    },
-    "require": {
-        "monolog/monolog": "2.0.*"
     }
+   
 }
 

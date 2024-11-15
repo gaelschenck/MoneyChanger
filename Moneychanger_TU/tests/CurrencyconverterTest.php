@@ -3,7 +3,7 @@ require_once __DIR__ . '/../vendor/autoload.php'; // Inclure l'autoloader de Com
 
 use PHPUnit\Framework\TestCase;
 
-class CurrencyConverterTest extends TestCase
+class CurrencyconverterTest extends TestCase
 {
     private $currencyConverter;
     private $apiKey = 'FAKE_API_KEY'; // Clé API fictive pour les tests

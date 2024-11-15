@@ -1,5 +1,8 @@
 <?php
 
+namespace App;
+use Exception;
+
 class CurrencyConverter
 {
     private $apiKey;

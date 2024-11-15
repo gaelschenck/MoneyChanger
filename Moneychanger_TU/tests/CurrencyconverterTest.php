@@ -2,6 +2,7 @@
 require_once __DIR__ . '/../vendor/autoload.php'; // Inclure l'autoloader de Composer
 
 use PHPUnit\Framework\TestCase;
+use App\CurrencyConverter;
 
 class CurrencyconverterTest extends TestCase
 {
